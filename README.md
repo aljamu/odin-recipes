@@ -1,2 +1,2 @@
 # odin-recipes
-I will start my first Odin Project project. It is supposed to be a basic recipe website with a few links to the recipes. It won't  pretty at first but will later in the course be styled with css.
+This is my first project with The Odin Project. It is however not my first ever project with HTML, CSS and Javascript. The Website is supposed to be a basic recipe website with a few links to the recipes. It won't be pretty at first but will later in the course be styled with css.
